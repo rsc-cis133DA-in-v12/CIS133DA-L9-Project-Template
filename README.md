@@ -1,5 +1,5 @@
 # Lesson 9
-The computer company client has received would like you to make a web page that displays the company's contact information. With your help from Lesson 6, they'd also like to include links to social media platforms which they plan to make profiles on in the near future. They'd like to include a table on the page to 
+The computer company client would like you to make a web page that displays the company's contact information. With your help from Lesson 6, they'd also like to include links to social media platforms which they plan to make profiles on in the near future. They'd like to include a table on the page to 
 
 ## Project Prep
 1. If you haven't done so already, clone the repo to your computer within your course folder.
