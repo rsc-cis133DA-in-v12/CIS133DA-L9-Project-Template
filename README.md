@@ -1,5 +1,5 @@
 # Lesson 9
-The computer company client would like you to make a web page that displays the company's contact information. With your help from Lesson 6, they'd also like to include links to social media platforms which they plan to make profiles on in the near future. They'd like to include a table on the page to 
+The computer company client would like you to make a web page that displays some of the offerings they have for individual users and businesses alike using a table to display the data. They'd also like you to create a form that can be submitted to them from potential clientele. This page will serve as a place where users can request an appointment straight from the website, providing information on what services they'd like to inquire about from the company. 
 
 ## Project Prep
 1. If you haven't done so already, clone the repo to your computer within your course folder.
@@ -28,7 +28,7 @@ The computer company client would like you to make a web page that displays the 
 
 <br>
 
-## Create the Contact Page
+## Create the Schedule an Appointment Page
 
 1. Save a copy of the template.html file to your Lesson 9 folder as: **schedule.html**
 0. Update the metadata with the following:
