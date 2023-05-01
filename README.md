@@ -73,43 +73,43 @@ The computer company client would like you to make a web page that displays some
 ## Style the Schedule Page
 1. If necessary, open the external stylesheet.
 2. Update the multi-lined comment to add your MEID as the Author, course and section number, and current lesson number.
->**NOTE:** For the remaining steps in the lesson, determine if you can apply the styles by targeting existing HTML selectors or if you must utilize a class or id selector.
+   >**NOTE:** For the remaining steps in the lesson, determine if you can apply the styles by targeting existing HTML selectors or if you must utilize a class or id selector.
 3. Above the Footer Styles, create a comment that displays: **Table Styles**.
 4. Style the table to:
-   1. Collapse the border.
-   2. Adjust the width to be 100% of the container.
+   - Collapse the border.
+   - Adjust the width to be 100% of the container.
 5. Style all table headers and table cells to:
-   1. Add a thin solid dark border of your desired color method on all sides of the elements.
-   2. Add a white background color of your desired color method.
-   3. Apply 5px of padding on all sides.
+   - Add a thin solid dark border of your desired color method on all sides of the elements.
+   - Add a white background color of your desired color method.
+   - Apply 5px of padding on all sides.
 6. Style the table header to apply additional styling:
-   1. Add a dark background color using your desired color method.
-   2. Change the text color to white using your desired color method.
-   3. Apply 10px of padding on all sides.
+   - Add a dark background color using your desired color method.
+   - Change the text color to white using your desired color method.
+   - Apply 10px of padding on all sides.
 7. Style the top table headers to adjust the bottom border width to be medium instead of thin.
 8. Style the left table headers to adjust the right border width to be medium instead of thin.
 9. Below the table styles, create a comment that displays: **Form Styles**.
 10. Style the form to:
-   1. Apply a thin solid dark border on all sides of the element.
-   2. Apply 20px of padding to all sides.
+    - Apply a thin solid dark border on all sides of the element.
+    - Apply 20px of padding to all sides.
 11. Style all field labels to:
-   1. Display as block elements.
-   2. Adjust the font weight to bold.
-   3. Apply 5px of padding to all sides.
+    - Display as block elements.
+    - Adjust the font weight to bold.
+    - Apply 5px of padding to all sides.
 12. Style the First Name, Last Name, Email, and Phone text input fields to:
-   1. Change the width so it spans 100% of the layout.
-   2. Apply an appropriate box-sizing method so that any borders, margins, or padding are subtracted from the width.
+    - Change the width so it spans 100% of the layout.
+    - Apply an appropriate box-sizing method so that any borders, margins, or padding are subtracted from the width.
 13. Style the textarea to:
-   1. Change the width so it spans 100% of the layout.
-   2. Change the height to 200px.
-   3. Apply an appropriate box-sizing method so that any borders, margins, or padding are subtracted from the box model.
-   4. Add a bottom margin of 10px.
+    - Change the width so it spans 100% of the layout.
+    - Change the height to 200px.
+    - Apply an appropriate box-sizing method so that any borders, margins, or padding are subtracted from the box model.
+    - Add a bottom margin of 10px.
 14. Style the form buttons to:
-   1. Add a top and bottom margin of 10px and left and right margin of 5px.
-   2. Apply 5px of padding to the top and bottom sides of the element and 10px of padding to the left and right sides
+    - Add a top and bottom margin of 10px and left and right margin of 5px.
+    - Apply 5px of padding to the top and bottom sides of the element and 10px of padding to the left and right sides
 15. Create a selector to apply a hover effect to the form buttons according to the following:
-   1. Add a dark background color of your desired color method.
-   2. Adjust the text color to your desired color method.
+    - Add a dark background color of your desired color method.
+    - Adjust the text color to your desired color method.
 
 
 ### Example Project
