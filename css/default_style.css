@@ -53,10 +53,12 @@ nav a {
 
 nav a:hover {
     background-color: #135367;
+    color: #ffffff;
 }
 
 nav .active {
-    background-color: #135367;
+    background-color: #ffffff;
+    color: #000000;
 }
 
 nav .right {
