@@ -83,32 +83,31 @@ The computer company client would like you to make a web page that displays some
    2. Add a white background color of your desired color method.
    3. Apply 5px of padding on all sides.
 6. Style the table header to apply additional styling:
-   1. Add a dark background color of your desired color method.
+   1. Add a dark background color using your desired color method.
    2. Change the text color to white using your desired color method.
    3. Apply 10px of padding on all sides.
-7. Style the first cell to have no borders or background color.
-8. Style the top table headers to adjust the bottom border width to be medium instead of thin.
-9. Style the left table headers to adjust the right border width to be medium instead of thin.
-10. Below the table styles, create a comment that displays: **Form Styles**.
-11. Style the form to:
+7. Style the top table headers to adjust the bottom border width to be medium instead of thin.
+8. Style the left table headers to adjust the right border width to be medium instead of thin.
+9. Below the table styles, create a comment that displays: **Form Styles**.
+10. Style the form to:
    1. Apply a thin solid dark border on all sides of the element.
    2. Apply 20px of padding to all sides.
-12. Style all field labels to:
+11. Style all field labels to:
    1. Display as block elements.
    2. Adjust the font weight to bold.
    3. Apply 5px of padding to all sides.
-13. Style the Full Name, Email, and Phone text input fields to"
+12. Style the First Name, Last Name, Email, and Phone text input fields to:
    1. Change the width so it spans 100% of the layout.
    2. Apply an appropriate box-sizing method so that any borders, margins, or padding are subtracted from the width.
-14. Style the textarea to:
+13. Style the textarea to:
    1. Change the width so it spans 100% of the layout.
    2. Change the height to 200px.
    3. Apply an appropriate box-sizing method so that any borders, margins, or padding are subtracted from the box model.
    4. Add a bottom margin of 10px.
-15. Style the form buttons to:
+14. Style the form buttons to:
    1. Add a top and bottom margin of 10px and left and right margin of 5px.
    2. Apply 5px of padding to the top and bottom sides of the element and 10px of padding to the left and right sides
-16. Create a selector to apply a hover effect to the form buttons according to the following:
+15. Create a selector to apply a hover effect to the form buttons according to the following:
    1. Add a dark background color of your desired color method.
    2. Adjust the text color to your desired color method.
 
