@@ -67,6 +67,7 @@ The computer company client would like you to make a web page that displays some
 
 ### Example Project
 **NOTE:** The table borders have been made visible in this example to help you visualize the table structure. Your project may not appear the same exact way.
+
 ![Screenshot of example Schedule page](https://raw.githubusercontent.com/rsc-cis133DA-in-v12/CourseResources/main/L9-example1.png)
 
 ## Style the Schedule Page
