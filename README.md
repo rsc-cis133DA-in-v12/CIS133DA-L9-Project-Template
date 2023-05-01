@@ -43,33 +43,30 @@ The computer company client would like you to make a web page that displays some
 3. Change the link text for the third link to `Book an Appointment`. Apply the **right** class to the list item. Apply the **active** class to the link. 
 4. Within the main section, create two second level headings. The first heading should display: `Pricing List` and the second heading should display: `Project Request Form`.
 5. Below the Pricing List heading, create a table utilizing the table data provided to you in the project prep. Your table should have 3 columns.
-   1. In the first row, create header cells for the appropriate cells to display: `Services` and `Price`.
-      > **NOTE:** You should have an empty cell or table heading to the left of the Services cell in the first column.
+   1. In the first row, create header cells for the appropriate cells to display: `User Type`, `Services` and `Price`.
    2. In the first column, create header cells for the appropriate cells to display: **Home & Business** and **Business**.
-   3. Create rows and table cells per row for each necessary entry within the table. When the information is the same between adjacent rows, make sure the cell correctly spans the row.
-5. Below the "Project Request Form" heading, create a paragraph that displays the following information: 
-      ><code>Computer Systems Inc. can email or call you today to schedule an appointment or project request. Submit the following form and we will get back to you promptly.</code>
-6. Create a form with the following information:
-   1. Apply an attribute to the form that will allow you to test the data when the form is submitted. **TIP:** Review Lesson 8, Introduction to Forms and the *Postback script* that has been provided to you.
-   2. Use the appropriate text input field to allow users to submit the following details: **First and Last Name**, **Email**, and **Phone**.
+   3. Create rows and table cells per row for each necessary entry within the table. When the information is the same between adjacent rows, make sure the cell correctly spans the rows. ***(See example page screenshot below if you need help visualizing how the data should be displayed.)***
+6. Below the "Project Request Form" heading, create a paragraph that displays the following information: 
+      `Computer Systems Inc. can email or call you today to schedule an appointment or project request. Submit the following form and we will get back to you promptly.`
+7. Create a form with the following information:
+   1. Apply an attribute to the form that will allow you to test the data when the form is submitted. **TIP:** Review [Lesson 9, Introduction to Forms](https://riosalado.coursearc.com/content/cis133da-in-v12/lesson-9-forms-and-tables/introduction-forms/) and the *Postback script* that has been provided to you.
+   2. Use the appropriate text input field to allow users to submit the following details: **First Name**, **Last Name**, **Email**, and **Phone**.
       - Use a binding method that will provide the most flexibility to style the elements using unique id attributes.
       > **TIP:** You will style your form later in the lesson to make each element display as block elements, therefore you should not add any line breaks to the form unless stated.
-   3. Add a paragraph that displays: 
-      ><code>How would you prefer we get back to you?</code>
+   3. Add a paragraph to your form that displays: `How would you prefer we get back to you?`
    4. Create checkable options to allow for one or more choices of contact. Display the following options: **Phone** or **Email**.
       - Use a binding method to make the input child elements of the label. 
-   5. Add a paragraph that displays:
-      ><code>Are you requesting for your home or business?</code>
+   5. Add a paragraph to your form that displays: `Are you requesting for your home or business?`
    6. Create an input field that will allow the user to select one of the following options: **Individual/Home** or **Business**
       - Use a binding method to make the input child elements of the label.
    7. Create a field that will allow the user to type in multiple lines of text. 
       - Use a binding method that will provide the most flexibility to style the elements using unique id attributes.
       - The label should display: **Additional Comments**
-   8. Add a line break to display the following below on it's own line.
+   8. Add a line breaks as needed to improve the placement of your form fields.
    9. Create a reset and submit button at the bottom of the form. Display the following text for the appropriate button: **Reset form** and **Submit Form**
 
 ### Example Project
-**NOTE:** The table borders have been made visible in this example, your project may not appear the same exact way.
+**NOTE:** The table borders have been made visible in this example to help you visualize the table structure. Your project may not appear the same exact way.
 ![Screenshot of example Schedule page](https://raw.githubusercontent.com/rsc-cis133DA-in-v12/CourseResources/main/L9-example1.png)
 
 ## Style the Schedule Page
