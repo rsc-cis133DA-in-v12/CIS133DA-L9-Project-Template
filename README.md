@@ -32,27 +32,21 @@ The computer company client would like you to make a web page that displays some
 **IMPORTANT: Be sure to Save and Sync your work to GitHub regularly, applying appropriate Commit comments as you go.**
 ***
 
-
-<<<<<<< HEAD
 ## Create the Schedule Page
-=======
-## Create the Schedule an Appointment Page
->>>>>>> 8a99c07a60d1577a3c3c2d9707f0c1916bca0500
 
-1. Save a copy of the template.html file to your Lesson 9 folder as: **schedule.html**
+1. Save a copy of the template.html file to your Lesson 9 Repo folder as: **schedule.html**. Update the comments with your section number and the lesson number.
 2. Update the metadata with the following:
-    1. Change the title to: **Schedule an Appointment**
+    1. Change the title to: `Schedule an Appointment`.
     2. Define the author using your first and last name.
     3. Add a minimum of 5 keywords appropriate for the page content.
     4. Add an appropriate description.
-1. Apply the **active** class to the "Schedule an appointment" link.
-2. Within the main section, remove the paragraph of placeholder text.
-3. Within the main section, create two second level headings. The first heading should display: **Pricing List** and the second heading should display: **Project Request Form**
-4. Below the Pricing List heading, create a table utilizing the table data provided to you in the project prep.
-   1. In the first row, create header cells for the appropriate cells to display: **Services** and **Price**
-      > **NOTE:** You should have an empty cell or table heading to the left of the Services cell.
+3. Change the link text for the third link to `Book an Appointment`. Apply the **right** class to the list item. Apply the **active** class to the link. 
+4. Within the main section, create two second level headings. The first heading should display: `Pricing List` and the second heading should display: `Project Request Form`.
+5. Below the Pricing List heading, create a table utilizing the table data provided to you in the project prep. Your table should have 3 columns.
+   1. In the first row, create header cells for the appropriate cells to display: `Services` and `Price`.
+      > **NOTE:** You should have an empty cell or table heading to the left of the Services cell in the first column.
    2. In the first column, create header cells for the appropriate cells to display: **Home & Business** and **Business**.
-   3. Create rows and table cells per row for each necessary entry within the table. When the information is same between adjacent rows, make sure the cell correctly spans the row.
+   3. Create rows and table cells per row for each necessary entry within the table. When the information is the same between adjacent rows, make sure the cell correctly spans the row.
 5. Below the "Project Request Form" heading, create a paragraph that displays the following information: 
       ><code>Computer Systems Inc. can email or call you today to schedule an appointment or project request. Submit the following form and we will get back to you promptly.</code>
 6. Create a form with the following information:
