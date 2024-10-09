@@ -9,7 +9,7 @@ The computer company client would like you to make a web page that displays some
 3. If there are files and folders present other than this `readme.md` file, take some time to familiarize yourself with the files within the repo so you know where they are located. This will help you when asked to use them within the project directions.
 
    > **TIP:** Before beginning any work on the project, read through all the steps to understand what you will be doing.
-4. You will create a table below, use the correct number of columns and rows to display the following details. Reviewing this information first will help you determine the structure of the table. 
+4. You will create a table below. Use the correct number of columns and rows to display the following details. Reviewing this information first will help you determine the structure of the table. 
    1. There are seven services offered to both Home & Business users that includes:
       - Offered at a $40 fixed price:
          - Data recovery & transfer
@@ -74,7 +74,7 @@ The computer company client would like you to make a web page that displays some
 1. If necessary, open the external stylesheet.
 2. Update the multi-lined comment to add your MEID as the Author, course and section number, and current lesson number.
    >**NOTE:** For the remaining steps in the lesson, determine if you can apply the styles by targeting existing HTML selectors or if you must utilize a class or id selector.
-3. Above the Footer Styles, create a comment that displays: **Table Styles**.
+3. Above the Footer Styles, create a comment that displays: **Table Styles**. Add the table styles as follows:
 4. Style the table to:
    - Collapse the border.
    - Adjust the width to be 100% of the container.
@@ -88,7 +88,7 @@ The computer company client would like you to make a web page that displays some
    - Apply 10px of padding on all sides.
 7. Style the top table headers to adjust the bottom border width to be medium instead of thin.
 8. Style the left table headers to adjust the right border width to be medium instead of thin.
-9. Below the table styles, create a comment that displays: **Form Styles**.
+9. Below the table styles, create a comment that displays: **Form Styles**. Add the form styles as follows:
 10. Style the form to:
     - Apply a thin solid dark border on all sides of the element.
     - Apply 20px of padding to all sides.
